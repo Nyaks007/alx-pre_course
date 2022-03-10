@@ -1,0 +1,1 @@
+-bash/__has_builtin
